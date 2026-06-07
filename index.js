@@ -1,5 +1,5 @@
 require('dotenv').config();
-const login = require('fca-unofficial');
+const login = require('@xaviabot/fca-unofficial');
 const fs = require('fs');
 const path = require('path');
 
